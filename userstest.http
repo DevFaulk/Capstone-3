@@ -1,0 +1,8 @@
+POST http://microbloglite.us-east-2.elasticbeanstalk.com/
+Content-Type: application/json
+
+{
+  "username": "Teddy",
+  "fullName": "Teddy Faulk",
+  "password": "covidcup"
+}
